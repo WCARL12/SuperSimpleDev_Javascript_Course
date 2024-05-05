@@ -4,7 +4,7 @@
 
 <h4>Lesson 1:</h4>
 <ul>
-  <li><bold>alert(text)</bold></li>
+  <li><b>alert(text)</b></li>
     <li>This allows a pop-up on the screen of the website</li>
   <br>
   <li>document.body.InnerHTML = ‘(text)’</li>
