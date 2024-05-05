@@ -7,5 +7,6 @@
   <li><b>alert(text)</b></li>
     <li>This allows a pop-up on the screen of the website</li>
   <br>
-  <li>document.body.InnerHTML = ‘(text)’</li>
+  <li><b>document.body.InnerHTML = ‘(text)’</b></li>
+  <li>This replaces the entire code with the text you inputted on the document.body.InnerHTML = “(input_text)”</li>
 </ul>
