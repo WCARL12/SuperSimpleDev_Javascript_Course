@@ -21,7 +21,7 @@
 
 <h4>Lesson 2: Numbers and Math:</h4>
 <ul>
-  <li>Did mostly calculate numbers with the amazon website</li>
+  <li>Did mostly to calculate numbers with the amazon website</li>
   <ul>
     <li>supersimple.dev/projects/amazon</li>
   </ul>
