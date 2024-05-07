@@ -1,0 +1,19 @@
+1a.) alert(‘Good Morning!’)
+
+1b.) alert(‘Carl Wico’)
+
+1c.) 10 +5 -> Output = 15
+
+1d.) 20 - 5 -.> Output = 15
+
+1e.) 2 + 2 - 5 -> Output = -1
+
+1f.) document.body.innerHTML = ‘Good Morning’
+
+1g.) document.body.innerHTML = ‘Carl Wico’
+
+1h.) 10 + 8 + 20 = 38
+
+1i.) 100 + 20 + 50 + 200 = 370
+
+1j.) document.body.innerHTML = ''
