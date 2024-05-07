@@ -17,4 +17,11 @@
   <ul>
     <li>supersimple.dev/projects/amazon</li>
   </ul>
+  <li>Learned new function Math.round(decimal_num)</li>
+  <ul>
+    <li>Make sure to use Capital ‘M’ for Math</li>
+    <li>Rounds to the nearest integer</li>
+    <li>Math.round(2.2) / output = 2</li>
+    <li>Math.round((2095 + 799) * 0.1) / 100</li>
+  </ul>
 </ul>
