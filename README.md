@@ -9,6 +9,7 @@
   <ul>
         <li>This allows a pop-up on the screen of the website</li>
   </ul>
+  <br>
   <li>You can use the console as the calculation</li>
   
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/29556356-104d-40c5-a9e7-25e16e113ca1)
