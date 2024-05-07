@@ -10,3 +10,11 @@
   <li><b>document.body.InnerHTML = ‘(text)’</b></li>
   <li>This replaces the entire code with the text you inputted on the document.body.InnerHTML = “(input_text)”</li>
 </ul>
+
+<h4>Lesson 2: Numbers and Math:</h4>
+<ul>
+  <li>Did mostly calculate numbers with the amazon website</li>
+  <ul>
+    <li>supersimple.dev/projects/amazon</li>
+  </ul>
+</ul>
