@@ -16,4 +16,4 @@
 
 1i.) 100 + 20 + 50 + 200 = 370
 
-1j.) document.body.innerHTML = ‘
+1j.) document.body.innerHTML = ''
