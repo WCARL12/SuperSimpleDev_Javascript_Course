@@ -13,7 +13,7 @@
   
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/29556356-104d-40c5-a9e7-25e16e113ca1)
   
-  <br>
+  
   <li><b>document.body.InnerHTML = ‘(text)’</b></li>
   <li>This replaces the entire code with the text you inputted on the document.body.InnerHTML = “(input_text)”</li>
 </ul>
