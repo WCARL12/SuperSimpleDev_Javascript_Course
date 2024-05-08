@@ -18,7 +18,7 @@
   <li><b>document.body.InnerHTML = ‘(text)’</b></li>
   <li>This replaces the entire code with the text you inputted on the document.body.InnerHTML = “(input_text)”</li>
 </ul>
-
+<br>
 <h3>Lesson 2: Numbers and Math:</h3>
 <ul>
   <li>Did mostly to calculate numbers with the amazon website</li>
@@ -45,6 +45,7 @@
   <li>Math.ceil() and Math.floor()</li>
 </ul>
 
+<br>
 <h3>Lesson 3: Strings</h3>
 <ul>
   <li>Pretty much learned how to concatenate letters</li>
