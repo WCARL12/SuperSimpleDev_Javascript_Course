@@ -65,7 +65,6 @@
   <li>Summary of what I learned</li>
     <ul>
       <li>String = text</li>
-      <br>
       <li>Three ways to create a strings:</li>
       <ul>
         <li>‘...’ <b>(single string / single quotes)</b></li>
@@ -75,11 +74,8 @@
           <li>Equivalent to <b>f-string</b> in Python</li>
         </ul>
       </ul>
-      <br>
       <li>Escape Characters: <b>\n \’</b></li>
-      <br>
       <li>Interpolation -> <b>`${calculation or variable}`</b> equivalent to f-string</li>
-      <br>
       <li>Multiline String -> `dfds  (Shift + Enter)<br>
 Dfs (Shift + Enter) <br>
 Dsfsdf ` 
