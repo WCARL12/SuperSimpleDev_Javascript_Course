@@ -44,3 +44,39 @@
   <li>Easier function to round numbers are <b>.toFixed(round_to_nearest…)</b></li>
   <li>Math.ceil() and Math.floor()</li>
 </ul>
+
+<h4>Lesson 3: Strings</h4>
+<ul>
+  <li>Pretty much learned how to concatenate letters</li>
+  <li>Working with different type values like string, number, bool</li>
+  <li>Leaned <b>type coercion</b>: The process of automatic or implicit conversion of values from one datatype to another</li>
+  <ul>
+    <li>For example: 'string' + 3 -> output: 'string3'</li>
+  </ul>
+  <li>Javascript calculator left to right (might affect calculations)</li>
+  <ul>
+    <li>‘$’ + 20.95 + 7.99 -> Output '$20.957.99' *Incorrect*</li>
+    <li>‘$’ + (20.95 + 7.99) -> '$28.93…' *Correct*</li>
+  </ul>
+  <li>Summary of what I learned/li>
+    <ul>
+      <li>String = text</li>
+      <li>Three ways to create a strings:</li>
+      <ul>
+        <li>‘...’ <b>(single string / single quotes)</b></li>
+        <li>“...” <b>(double string / double quotes)</b></li>
+        <li>`...` <b>(template string)</b></li>
+        <ul>
+          <li>Equivalent to <b>f-string</b> in Python</li>
+        </ul>
+      </ul>
+      <li>Escape Characters: <b>\n \’</b></li>
+      <li>Interpolation -> <b>`${calculation or variable}`</b> equivalent to f-string</li>
+      <li>Multiline String -> `dfds  (Shift + Enter)
+Dfs (Shift + Enter)
+Dsfsdf ` 
+</li>
+    </ul>
+</ul>
+
+
