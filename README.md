@@ -2,7 +2,7 @@
 
 <h2>The things I have learned in a JavaScript course by SuperSimpleDev that I did not know:</h2>
 
-<h3>Lesson 1:</h3>
+<h3>Lesson 1: JavaScript Basics</h3>
 <ul>
   <li>Used website <b>“supersimple.dev/js-basics/”</b></li>
   <li><b>alert(text)</b></li>
