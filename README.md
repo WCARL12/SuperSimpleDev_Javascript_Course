@@ -51,7 +51,7 @@
   <br>
   <li>Working with different type values like string, number, bool</li>
   <br>
-  <li>Leaned <b>type coercion</b>: The process of automatic or implicit conversion of values from one datatype to another</li>
+  <li>Learned <b>type coercion</b>: The process of automatic or implicit conversion of values from one datatype to another</li>
   <ul>
     <li>For example: 'string' + 3 -> output: 'string3'</li>
   </ul>
