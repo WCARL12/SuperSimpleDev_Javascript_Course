@@ -59,11 +59,10 @@
   <li>Javascript calculator left to right (might affect calculations)</li>
   <ul>
     <li>‘$’ + 20.95 + 7.99 -> Output '$20.957.99' *Incorrect*</li>
-    <br>
     <li>‘$’ + (20.95 + 7.99) -> '$28.93…' *Correct*</li>
   </ul>
   <br>
-  <li>Summary of what I learned/li>
+  <li>Summary of what I learned</li>
     <ul>
       <li>String = text</li>
       <br>
