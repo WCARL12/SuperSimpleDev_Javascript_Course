@@ -2,7 +2,7 @@
 
 <h2>The things I have learned in a JavaScript course by SuperSimpleDev that I did not know:</h2>
 
-<h4>Lesson 1:</h4>
+<h3>Lesson 1:</h3>
 <ul>
   <li>Used website <b>“supersimple.dev/js-basics/”</b></li>
   <li><b>alert(text)</b></li>
@@ -19,7 +19,7 @@
   <li>This replaces the entire code with the text you inputted on the document.body.InnerHTML = “(input_text)”</li>
 </ul>
 
-<h4>Lesson 2: Numbers and Math:</h4>
+<h3>Lesson 2: Numbers and Math:</h3>
 <ul>
   <li>Did mostly to calculate numbers with the amazon website</li>
   <ul>
@@ -45,7 +45,7 @@
   <li>Math.ceil() and Math.floor()</li>
 </ul>
 
-<h4>Lesson 3: Strings</h4>
+<h3>Lesson 3: Strings</h3>
 <ul>
   <li>Pretty much learned how to concatenate letters</li>
   <br>
