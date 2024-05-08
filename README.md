@@ -72,8 +72,8 @@
       </ul>
       <li>Escape Characters: <b>\n \’</b></li>
       <li>Interpolation -> <b>`${calculation or variable}`</b> equivalent to f-string</li>
-      <li>Multiline String -> `dfds  (Shift + Enter)
-Dfs (Shift + Enter)
+      <li>Multiline String -> `dfds  (Shift + Enter)<br>
+Dfs (Shift + Enter) <br>
 Dsfsdf ` 
 </li>
     </ul>
