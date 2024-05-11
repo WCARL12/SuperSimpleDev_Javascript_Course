@@ -86,4 +86,26 @@ Dsfsdf `
 
 <h4>LEesson 4: HTML, CSS Review, console.log()</h4>
 
+<ul>
+  <li><b>HTML:</b>creates the content</li>
+  <br>
+  <li><b>CSS:</b> changes the appearance</li>
+  <br>
+  <li><b>JavaScript:</b> makes it interactive</li>
+  <br>
+  <br>
+  <li>Learned html elements (So basic!!!)</li>
+  <ul>
+    <li>&lt;button&gt;, &lt;p&gt;</li>
+    <li>opening, closing tags</li>
+  </ul>
+  <br>
+  <li><b>Nesting</b> means element inside of element</li>
+  <ul>
+    <li>&lt;p&gt;Hello&lt;button&gt;World!&lt;/button&gt;&lt;/p&gt;</li>
+  </ul>
+  <li></li>
+  <li></li>
+</ul>
+
 
