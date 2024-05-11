@@ -192,7 +192,21 @@ Dsfsdf `
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/62ff9c32-3ec7-4018-b86d-8cf7da36efd5)
 
-
+Note: Can't use kebab-case for Javascript. The standard for Javascript is camelCase
+<br>
+<li>Last thing I learned was "typeof"</li>
+<ul>
+  <li>console.log(typeof(variable))</li>
+</ul>
+<li>Summary of the lesson:</li>
+<ul>
+  <li>Variables = a way to store values</li>
+  <li>Re-assign a variable</li>
+  <li>Created the Cart Quantity feature</li>
+  <li>Shortcuts for re-assigning a variable</li>
+  <li>Naming conventions and best practices</li>
+  <li>3 ways to create a variable: let, const, var</li>
+</ul>
 </ul>
 
 
