@@ -99,7 +99,10 @@ Dsfsdf `
   <ul>
     <li>&lt;p&gt;Hello&lt;button&gt;World!&lt;/button&gt;&lt;/p&gt;</li>
   </ul>
-  <li></li>
+  <li>If you have extrea spaces it will only display 1 space</li>
+  <ul>
+    &lt;p&gt;Hello   World&lt;/p&gt; === &lt;p&gt;Hello World&lt;/p&gt;
+  </ul>
   <li></li>
 </ul>
 
