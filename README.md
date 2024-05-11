@@ -101,7 +101,7 @@ Dsfsdf `
   </ul>
   <li>If you have extrea spaces it will only display 1 space</li>
   <ul>
-    &lt;p&gt;Hello&nbsp;&nbsp;&nbsp;&nbsp;World&lt;/p&gt; === &lt;p&gt;Hello World&lt;/p&gt;
+    &lt;p&gt;Hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World&lt;/p&gt; === &lt;p&gt;Hello World&lt;/p&gt;
   </ul>
   <li></li>
 </ul>
