@@ -153,12 +153,14 @@ Dsfsdf `
   <ul>
     <li>A variable is a container where we can save a value and use it later</li>
   </ul>
+  <br>
   <li>Ways to create variables:</li>
   <ul>
     <li>let x = 1</li>
     <li>const = 2</li>
     <li>var = 3</li>
   </ul>
+  <br>
   <li>Variable Rules:</li>
   <ul>
     <li>Can't use special words / reserved words</li>
@@ -174,12 +176,14 @@ Dsfsdf `
 <ul>
   <li>let x = 12; console.log(x); console.log(‘hello’);</li>
 </ul>
+  <br>
 <li>Creating and reassigning variables</li>
 <ul>
   <li>Creating variables -> let y = ‘Hello’;</li>
   <li>Reassigning variables -> y = ‘World’</li>
   <li>Note you do not need to use the “let” again if you want to reassign a new value inside a variable. “let” is for assigning new variables that has not been created yet.</li>
 </ul>
+  <br>
 <li>Learned how to make buttons interactive in the website using Javascript ‘onclick’ and ‘variables’:</li>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7e52074a-0403-4adf-b0ad-7859671c0afa)
@@ -188,6 +192,7 @@ Dsfsdf `
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/c1855d4e-5103-4b95-8c98-1a591473dd8f)
 
+  <br>
 <li>Naming Conventions:</li>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/62ff9c32-3ec7-4018-b86d-8cf7da36efd5)
@@ -198,6 +203,7 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 <ul>
   <li>console.log(typeof(variable))</li>
 </ul>
+<br>
 <li>Summary of the lesson:</li>
 <ul>
   <li>Variables = a way to store values</li>
