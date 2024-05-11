@@ -116,12 +116,12 @@ Dsfsdf `
   
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/88dbb235-41b1-4370-b896-521a1483d224)
   
-  <li>&lt;head&ht;: contains information about the page. Anything that is not visible is typically inside the head</li>
+  <li>&lt;head&gt;: contains information about the page. Anything that is not visible is typically inside the head</li>
   <ul>
-    <li>&lt;title&ht;. &lt;style&ht;...</li>
+    <li>&lt;title&gt;. &lt;style&gt;...</li>
   </ul>
   <li>You can search word wrap on the settings of visual studio code to prevent lines from extending too far and turn word wrap on</li>
-  <li>You can use &lt;script&ht; at the very end of the &lt;body&ht; to write Javascript code</li>
+  <li>You can use &lt;script&gt; at the very end of the &lt;body&gt; to write Javascript code</li>
   
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/fbfb4dde-f737-4108-a4c0-e55945c56da0)
 
