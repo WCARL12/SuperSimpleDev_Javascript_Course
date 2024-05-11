@@ -84,7 +84,7 @@ Dsfsdf `
     </ul>
 </ul>
 
-<h4>LEesson 4: HTML, CSS Review, console.log()</h4>
+<h4>Lesson 4: HTML, CSS Review, console.log()</h4>
 
 <ul>
   <li><b>HTML:</b>creates the content</li>
