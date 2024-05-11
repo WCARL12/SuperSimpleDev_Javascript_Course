@@ -113,6 +113,24 @@ Dsfsdf `
       title (attribute name) = 'Good job!' (attribute value)
     </li>
   </ul>
+  ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/88dbb235-41b1-4370-b896-521a1483d224)
+  <li>&lt;head&ht;: contains information about the page. Anything that is not visible is typically inside the head</li>
+  <ul>
+    <li>&lt;title&ht;. &lt;style&ht;...</li>
+  </ul>
+  <li>You can search word wrap on the settings of visual studio code to prevent lines from extending too far and turn word wrap on</li>
+  <li>You can use &lt;script&ht; at the very end of the &lt;body&ht; to write Javascript code</li>
+  ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/fbfb4dde-f737-4108-a4c0-e55945c56da0)
+
+<li>console.log(): This displays the values in the console of the website that you input inside the console.log()</li>
+<li>Summarization of what I learned:</li>
+<ul>
+  <li>Reviewed basics of HTML and CSS</li>
+  <li>Set up VSCODE (you already know this)</li>
+  <li>Load JavaScript inside an HTML file <script>, onclick=’’ </li>
+  <li>Comments</li>
+  <li>Console.log()</li>
+</ul>
 </ul>
 
 
