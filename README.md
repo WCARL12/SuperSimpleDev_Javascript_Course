@@ -120,6 +120,7 @@ Dsfsdf `
   </ul>
   <li>You can search word wrap on the settings of visual studio code to prevent lines from extending too far and turn word wrap on</li>
   <li>You can use &lt;script&ht; at the very end of the &lt;body&ht; to write Javascript code</li>
+  
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/fbfb4dde-f737-4108-a4c0-e55945c56da0)
 
 <li>console.log(): This displays the values in the console of the website that you input inside the console.log()</li>
