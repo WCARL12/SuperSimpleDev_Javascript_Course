@@ -1,6 +1,6 @@
 # SuperSimpleDev_Javascript_Course
 
-<h2>The things I have learned in a JavaScript course by SuperSimpleDev that I did not know:</h2>
+<h2>The things I have learned in the JavaScript course that I did not know:</h2>
 
 <h3>Lesson 1: JavaScript Basics</h3>
 <ul>
