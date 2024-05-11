@@ -113,7 +113,9 @@ Dsfsdf `
       title (attribute name) = 'Good job!' (attribute value)
     </li>
   </ul>
+  
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/88dbb235-41b1-4370-b896-521a1483d224)
+  
   <li>&lt;head&ht;: contains information about the page. Anything that is not visible is typically inside the head</li>
   <ul>
     <li>&lt;title&ht;. &lt;style&ht;...</li>
