@@ -103,7 +103,16 @@ Dsfsdf `
   <ul>
     &lt;p&gt;Hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World&lt;/p&gt; === &lt;p&gt;Hello World&lt;/p&gt;
   </ul>
-  <li></li>
+  <li>Learned how to style</li>
+  <li>HTML Attributes: changes the behavior of an element</li>
+  <ul>
+    <li>
+      &lt;button title='Good job!'&gt;
+    </li>
+    <li>
+      title (attribute name) = 'Good job!' (attribute value)
+    </li>
+  </ul>
 </ul>
 
 
