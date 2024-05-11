@@ -90,25 +90,31 @@ Dsfsdf `
   <li><b>HTML:</b>creates the content</li>
   <li><b>CSS:</b> changes the appearance</li>
   <li><b>JavaScript:</b> makes it interactive</li>
+  <br>
   <li>Learned html elements (So basic!!!)</li>
   <ul>
     <li>&lt;button&gt;, &lt;p&gt;</li>
     <li>opening, closing tags</li>
   </ul>
+  <br>
   <li><b>Nesting</b> means element inside of element</li>
   <ul>
     <li>&lt;p&gt;Hello&lt;button&gt;World!&lt;/button&gt;&lt;/p&gt;</li>
   </ul>
+  <br>
   <li>If you have extra spaces it will only display 1 space</li>
   <ul>
     &lt;p&gt;Hello&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;World&lt;/p&gt; === &lt;p&gt;Hello World&lt;/p&gt;
   </ul>
+  <br>
   <li>Learned how to style</li>
+  <br>
   <li>HTML Attributes: changes the behavior of an element</li>
   <ul>
     <li>
       &lt;button title='Good job!'&gt;
     </li>
+  <br>
     <li>
       title (attribute name) = 'Good job!' (attribute value)
     </li>
@@ -116,16 +122,21 @@ Dsfsdf `
   
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/88dbb235-41b1-4370-b896-521a1483d224)
   
+  <br>
   <li>&lt;head&gt;: contains information about the page. Anything that is not visible is typically inside the head</li>
   <ul>
     <li>&lt;title&gt;. &lt;style&gt;...</li>
   </ul>
+  <br>
   <li>You can search word wrap on the settings of visual studio code to prevent lines from extending too far and turn word wrap on</li>
+  <br>
   <li>You can use &lt;script&gt; at the very end of the &lt;body&gt; to write Javascript code</li>
   
   ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/fbfb4dde-f737-4108-a4c0-e55945c56da0)
 
+  <br>
 <li>console.log(): This displays the values in the console of the website that you input inside the console.log()</li>
+  <br>
 <li>Summarization of what I learned:</li>
 <ul>
   <li>Reviewed basics of HTML and CSS</li>
@@ -135,5 +146,6 @@ Dsfsdf `
   <li>Console.log()</li>
 </ul>
 </ul>
+
 
 
