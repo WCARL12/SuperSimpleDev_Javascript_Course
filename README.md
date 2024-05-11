@@ -147,5 +147,52 @@ Dsfsdf `
 </ul>
 </ul>
 
+<h4>Lesson 5 Variables:</h4>
+<ul>
+  <li>What is a variable?</li>
+  <ul>
+    <li>A variable is a container where we can save a value and use it later</li>
+  </ul>
+  <li>Ways to create variables:</li>
+  <ul>
+    <li>let x = 1</li>
+    <li>const = 2</li>
+    <li>var = 3</li>
+  </ul>
+  <li>Variable Rules:</li>
+  <ul>
+    <li>Can't use special words / reserved words</li>
+    <li>Can’t start with a number</li>
+    <li>Can’t use special characters except: $ _</li>
+  </ul>
+  
+  ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/40d3dd8c-f298-40f4-a10a-6bb9cf2eccc9)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/421ad0fc-3ece-48ce-9e51-a4877b840ceb)
+
+<li><b>;</b> means the end of an instruction</li>
+<ul>
+  <li>let x = 12; console.log(x); console.log(‘hello’);</li>
+</ul>
+<li>Creating and reassigning variables</li>
+<ul>
+  <li>Creating variables -> let y = ‘Hello’;</li>
+  <li>Reassigning variables -> y = ‘World’</li>
+  <li>Note you do not need to use the “let” again if you want to reassign a new value inside a variable. “let” is for assigning new variables that has not been created yet.</li>
+</ul>
+<li>Learned how to make buttons interactive in the website using Javascript ‘onclick’ and ‘variables’:</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7e52074a-0403-4adf-b0ad-7859671c0afa)
+
+<li>Variable Re-assignment Shortcuts</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/c1855d4e-5103-4b95-8c98-1a591473dd8f)
+
+<li>Naming Conventions:</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/62ff9c32-3ec7-4018-b86d-8cf7da36efd5)
+
+
+</ul>
 
 
