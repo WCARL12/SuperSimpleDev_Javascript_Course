@@ -215,4 +215,6 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 </ul>
 </ul>
 
+<h4>Lesson 6: Booleans and If-Statements</h4>
+
 
