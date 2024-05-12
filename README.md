@@ -269,13 +269,19 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
   <br>    
     
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/86140af7-5f10-4b9b-911e-8afd2d4876ad)
-    <li>Using if-statements if you are old enough to drive</li>
+    <li>Using if-statements if you are old enough to drive:</li>
   <br>    
-      ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/f2f23925-9ca4-4f6d-b09d-a75678d969d6)
-
-    
+      ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/f2f23925-9ca4-4f6d-b09d-a75678d969d6)    
 
   </ul>
+  <li>Any variable created inside {...} will only exist inside the { ... }</li>
+  
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/ff827b3f-94db-4a80-91aa-8d07143c815d)
+
+<p>This will result in error since the x variable is only available inside the { … } brackets
+It is a local variable not a global variable
+</p>
+  
 </ul>
 
 
