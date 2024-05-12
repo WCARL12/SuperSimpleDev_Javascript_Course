@@ -279,9 +279,11 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/ff827b3f-94db-4a80-91aa-8d07143c815d)
 
 <p>This will result in error since the x variable is only available inside the { … } brackets
-It is a local variable not a global variable
+It is a local variable not a global variable.
 </p>
-  
+<br>
+  <li><b>Scope</b></li>
+  <ul>Allows to avoid naming conflicts like similar to local and global variables</ul>
 </ul>
 
 
