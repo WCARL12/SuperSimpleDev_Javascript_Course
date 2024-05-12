@@ -248,6 +248,7 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
           </ul>
         </ul>
         
-        ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/f395744f-f9ee-4125-ba7b-e2816b39feee)
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/eb3a9f77-3042-4c1c-b673-a378e5b10a26)
+
 
 </ul>
