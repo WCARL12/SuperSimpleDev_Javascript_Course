@@ -216,5 +216,15 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 </ul>
 
 <h4>Lesson 6: Booleans and If-Statements</h4>
+<ul>
+  <li>What are Booleans?</li>
+  <ul>
+    <li>Booleans are another type of value</li>
+    <li>There are only 2 boolean values</li>
+    <ul>
+      <li>True</li>
+      <li>False</li>
+  </ul>
+</ul>
 
 
