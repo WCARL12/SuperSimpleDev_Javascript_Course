@@ -265,8 +265,4 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 
 </ul>
 
-<b>If Statements:</b>
-<ul>
-  <li>Lets us write multiple group of code and then decide which code to run</li>
-</ul>
 
