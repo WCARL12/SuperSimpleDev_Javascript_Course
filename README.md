@@ -236,4 +236,13 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
       <li>console.log(typeof(true)) -> Output = boolean</li>
     </ul>
   </ul>
+        <li>Learned <b>Comparison Operators</b></li>
+        <ul>
+          <li><b>Note:</b> The “==” operator compares the values on both sides and returns true if they are equal, <b>even if their types are different.</b></li>
+          <ul><li>For example: 1 == ‘1’; // true</li></ul>
+          <li><b>Note:</b> The “===” operator checks if the values are equal, but it also <b>checks if their types are the same.</b></li>
+          <ul>
+            <li>For example: 1 === '1'; // false</li>
+          </ul>
+        </ul>
 </ul>
