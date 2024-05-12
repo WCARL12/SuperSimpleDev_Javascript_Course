@@ -218,7 +218,7 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 <h4>Lesson 6: Booleans and If-Statements</h4>
 <ul>
   <li>What are Booleans?</li>
-  <ul>
+</ul>
     <li>Booleans are another type of value</li>
     <li>There are only 2 boolean values:</li>
     <ul>
@@ -235,6 +235,5 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
         </ul>
     </ul>
 
-</ul>
 
 
