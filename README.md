@@ -241,12 +241,12 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
         <ul>
           <li><b>Note:</b> The “==” operator compares the values on both sides and returns true if they are equal, <b>even if their types are different.</b></li>
           <ul><li>For example: 1 == ‘1’; // true</li></ul>
-          <br>
           <li><b>Note:</b> The “===” operator checks if the values are equal, but it also <b>checks if their types are the same.</b></li>
           <ul>
             <li>For example: 1 === '1'; // false</li>
           </ul>
         </ul>
+          <br>
         
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/eb3a9f77-3042-4c1c-b673-a378e5b10a26)
 
