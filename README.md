@@ -250,5 +250,18 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
         
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/eb3a9f77-3042-4c1c-b673-a378e5b10a26)
 
+  <br>
+  <li><b>Order of Operations:</b></li>
+
+  ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/77a62b2c-4309-4c47-adac-feb93dd4bdb1)
+
+  <br>
+  <li>console.log(3 > 5 - 5)</li>
+  <ul>
+    <li>This would first do the operation 5 - 5 then do the comparison 3 > 0
+</li>
+  </ul>
+  <li>Comparison Operators have a <b>lower priority</b> than arithmetic operators</li>
+
 
 </ul>
