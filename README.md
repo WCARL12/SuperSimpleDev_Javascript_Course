@@ -220,11 +220,21 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
   <li>What are Booleans?</li>
   <ul>
     <li>Booleans are another type of value</li>
-    <li>There are only 2 boolean values</li>
+    <li>There are only 2 boolean values:</li>
     <ul>
       <li>True</li>
       <li>False</li>
   </ul>
+    <li>What is the purpose of booleans?</li>
+    <ul>
+      <li>A boolean value represents whether something is true or false</li>
+          <ul>
+        <li>console.log(3 < 5) -> Output = true</li>
+        <li>console.log(3 > 5) -> Output = false</li>
+        <li>console.log(typeof(true)) -> Output = boolean</li>
+        </ul>
+    </ul>
+
 </ul>
 
 
