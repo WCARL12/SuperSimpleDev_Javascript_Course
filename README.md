@@ -262,6 +262,16 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 </li>
   </ul>
   <li>Comparison Operators have a <b>lower priority</b> than arithmetic operators</li>
+  <br>
+  <li><b>If Statements</b></li>
+  <ul>
+    <li>Lets us write multiple group of code and then decide which code to run</li>    
+  </ul>
+  <br>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/86140af7-5f10-4b9b-911e-8afd2d4876ad)
+
+
 
 </ul>
 
