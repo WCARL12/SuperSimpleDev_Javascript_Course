@@ -307,6 +307,12 @@ It is a local variable not a global variable.
     <li>console.log(8 > 5 &&  7< 10) // True</li>
     <li>console.log(1 > 10 && 12 > 10) // False</li>
   </ul>
+    <li><b>||</b> (OR operator)</li>
+      <ul>
+        <li><b>Only one condition of the condition or more must be true</b> in order to be true</li>
+        <li>console.log(8 > 2 || 12 < 9) // True</li>
+        <li>console.log(9 < 2 || ‘Carl’ === ‘Wico’) // False</li>
+      </ul>
 </ul>
 </ul>
 
