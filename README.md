@@ -379,6 +379,14 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 <li>Note if the value on the left is already false, it will not have to check the right one if it is true or false since AND operator both needs to be true in order to be true</li>
 <li><b>This is a Short Circuit Evaluation</b></li>
 
+<li><b>Default Operator ||</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/f30dc35f-0076-4bab-8d07-585d71c31cf1)
+
+<ul>
+	<li>Good for getting default values if there is no decision by the user.</li>
+</ul>
+
 
 </ul>
 
