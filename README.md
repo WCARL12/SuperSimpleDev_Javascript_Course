@@ -313,7 +313,31 @@ It is a local variable not a global variable.
         <li>console.log(8 > 2 || 12 < 9) // True</li>
         <li>console.log(9 < 2 || ‘Carl’ === ‘Wico’) // False</li>
       </ul>
+    <li><b>!</b> (NOT operator)</li>
+      <ul>
+        <li>Makes the value the opposite</li>
+        <li>console.log(!true) // false</li>
+        <li>console.log(!(12 > 2)) // False</li>
+        <li>console.log(12 !== 9) // True</li>
+      </ul>
+          <br>
 </ul>
+  <li><b>Truthy Value</b></li>
+          <ul>
+            <li>A value that behaves just like true</li>
+          </ul>
+          <p>If (3){<br>
+	console.log(‘Truthy’)<br>
+} // Output is Truthy 
+</p>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/381a7240-780d-42ad-88ff-45d6767cc169)
+<br>
+<li>Truthy and Falsy used for example IRL </li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/44d323c2-1d18-4c2d-b825-11fe4eafaff8)
+
+
 </ul>
 
 
