@@ -346,6 +346,39 @@ It is a local variable not a global variable.
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/44d323c2-1d18-4c2d-b825-11fe4eafaff8)
 
+<li><b>Shortcuts for If-Statements</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7e91e2e1-5eb9-47b5-a9f2-cf8bbdaeb172)
+
+<li><b>Ternary Operator Example:</b></li>
+<ul>
+	<li>true ? console.log('truthy') : console.log('falsy')</li>
+
+ ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/2dacb861-95b0-4580-b507-6f29dd2af211)
+
+<li>let points = 110;<br>
+Let type = points > 100 ? ‘gold’ : ‘silver’ ; 
+</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/23998a43-84dd-4e45-bb6a-4587f6b6b406)
+
+<li>var result = (x > 10) ? "greater than 10" : (x < 5) ? "less than 5" : "between 5 and 10";</li>
+</ul>
+
+<li><b>Guard Operator</b></li>
+<br>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/9d081245-c298-447c-a836-4e91c0eac1eb)
+
+<ul>
+	<li>Similar to: </li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/126f9c62-0bc1-44f6-a77f-560070d8d36d)
+
+<li>Note if the value on the left is already false, it will not have to check the right one if it is true or false since AND operator both needs to be true in order to be true</li>
+<li><b>This is a Short Circuit Evaluation</b></li>
+
 
 </ul>
 
