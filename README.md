@@ -372,12 +372,13 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 <ul>
 	<li>Similar to: </li>
+	<li>Note if the value on the left is already false, it will not have to check the right one if it is true or false since AND operator both needs to be true in order to be true</li>
+<li><b>This is a Short Circuit Evaluation</b></li>
 </ul>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/126f9c62-0bc1-44f6-a77f-560070d8d36d)
 
-<li>Note if the value on the left is already false, it will not have to check the right one if it is true or false since AND operator both needs to be true in order to be true</li>
-<li><b>This is a Short Circuit Evaluation</b></li>
+
 
 <li><b>Default Operator ||</b></li>
 <br>
