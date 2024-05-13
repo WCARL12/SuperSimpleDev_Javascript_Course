@@ -365,7 +365,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 <li>var result = (x > 10) ? "greater than 10" : (x < 5) ? "less than 5" : "between 5 and 10";</li>
 </ul>
-
+<br>
 <li><b>Guard Operator</b></li>
 <br>
 
