@@ -293,6 +293,7 @@ It is a local variable not a global variable.
 <ul>
   <li>An algorith is a set of steps to complete a task or solve a problem</li>
 </ul>
+<br>
 <li><b>Math.random()</b></li>
 <ul>
   <li>Displays a random floating number between 0 - 1</li>
