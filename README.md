@@ -284,6 +284,30 @@ It is a local variable not a global variable.
 <br>
   <li><b>Scope</b></li>
   <ul>Allows to avoid naming conflicts like similar to local and global variables</ul>
+  <br>
+  <li>Learned how to create rock paper scissors</li>\
+  
+  ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7ae733cf-d769-4efa-ba50-1f0f2ff6dd97)
+
+<li><b>Algorithm</b></li>
+<ul>
+  <li>An algorith is a set of steps to complete a task or solve a problem</li>
+</ul>
+<li><b>Math.random()</b></li>
+<ul>
+  <li>Displays a random floating number between 0 - 1</li>
+  <li>Cannot change the value that goes up to or between like 1 - 10</li>
+</ul>
+<br>
+<li><b>Logical Operators:</b></li>
+<ul>
+  <li><b>&& (AND operator)</b></li>
+  <ul>
+    <li><b>Both / all conditions must be True</b> in order to be True</li>
+    <li>console.log(8 > 5 &&  7< 10) // True</li>
+    <li>console.log(1 > 10 && 12 > 10) // False</li>
+  </ul>
+</ul>
 </ul>
 
 
