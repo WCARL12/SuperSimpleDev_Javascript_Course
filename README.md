@@ -331,6 +331,15 @@ It is a local variable not a global variable.
 } // Output is Truthy 
 </p>
 
+<li><b>Falsy value</b></li>
+<ul>
+	<li>A value that behaves just like false</li>
+</ul>
+<p>If (0){<br>
+	console.log(‘Truthy’)<br>
+} // No output 
+</p>
+
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/381a7240-780d-42ad-88ff-45d6767cc169)
 <br>
 <li>Truthy and Falsy used for example IRL </li>
