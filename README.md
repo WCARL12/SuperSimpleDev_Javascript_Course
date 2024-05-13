@@ -380,6 +380,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 <li><b>This is a Short Circuit Evaluation</b></li>
 
 <li><b>Default Operator ||</b></li>
+<br>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/f30dc35f-0076-4bab-8d07-585d71c31cf1)
 
