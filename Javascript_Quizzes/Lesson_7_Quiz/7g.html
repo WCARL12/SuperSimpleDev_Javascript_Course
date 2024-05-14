@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body>
+    <p>
+      <button onclick="
+      calculation = updateCalculation(calculation, '1')
+      ">1</button>
+      
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '2')
+      ">2</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '3')
+      ">3</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, ' + ')
+      ">+</button>
+    </p>
+
+    <p>
+      <button onclick="
+        calculation = updateCalculation(calculation, '4')
+      ">4</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '5')
+      ">5</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '6')
+      ">6</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, ' - ')
+      ">-</button>
+    </p>
+
+    <p>
+      <button onclick="
+        calculation = updateCalculation(calculation, '7')
+      ">7</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '8')
+      ">8</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '9')
+      ">9</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, ' * ')
+      ">*</button>
+    </p>
+
+    <p>
+      <button onclick="
+        calculation = updateCalculation(calculation, '0')
+      ">0</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, '.')
+      ">.</button>
+
+      <button onclick="
+        // Note: eval() takes a string and runs it as code.
+        // Avoid using eval() in real world projects since
+        // it can potentially be given harmful code to run.
+        // Only use eval() for learning purposes.
+        calculation = eval(calculation);
+        console.log(calculation);
+      ">=</button>
+
+      <button onclick="
+        calculation = updateCalculation(calculation, ' / ')
+      ">/</button>
+    </p>
+
+    <p>
+      <button onclick="
+        calculation = '';
+        console.log(calculation);
+      ">Clear</button>
+    </p>
+
+    <script>
+      let calculation = '';
+
+      function updateCalculation(calculation, numberOperation){
+        calculation += numberOperation
+        console.log(calculation)
+        return calculation 
+      }
+    </script>
+  </body>
+</html>
