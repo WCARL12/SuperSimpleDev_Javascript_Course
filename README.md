@@ -84,7 +84,7 @@ Dsfsdf `
     </ul>
 </ul>
 
-<h4>Lesson 4: HTML, CSS Review, console.log()</h4>
+<h3>Lesson 4: HTML, CSS Review, console.log()</h3>
 
 <ul>
   <li><b>HTML:</b>creates the content</li>
@@ -147,7 +147,7 @@ Dsfsdf `
 </ul>
 </ul>
 
-<h4>Lesson 5 Variables:</h4>
+<h3>Lesson 5 Variables:</h3>
 <ul>
   <li>What is a variable?</li>
   <ul>
@@ -215,7 +215,7 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
 </ul>
 </ul>
 
-<h4>Lesson 6: Booleans and If-Statements</h4>
+<h3>Lesson 6: Booleans and If-Statements</h3>
 <ul>
   <li>What are Booleans?</li>
   <ul>
@@ -390,7 +390,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>Good for getting default values if there is no decision by the user.</li>
 </ul>
 
-<h4>Lesson 7: Functions</h4>
+<h3>Lesson 7: Functions</h3>
 <li>What is a function?</li>
 <ul>
 	<li>A function lets us reuse code</li>
@@ -449,7 +449,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>Return = gets a value out of a function</li>
 	<li>Parameter = put values into a function</li>
 </ul>
-<h4>Lesson 8: Objects</h4>
+<h3>Lesson 8: Objects</h3>
 </ul>
 
 
