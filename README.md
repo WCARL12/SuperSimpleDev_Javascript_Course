@@ -390,7 +390,66 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>Good for getting default values if there is no decision by the user.</li>
 </ul>
 
+<h4>Lesson 7: Functions</h4>
+<li>What is a function?</li>
+<ul>
+	<li>A function lets us reuse code</li>
+</ul>
+<li>Rules for funciton names:</li>
 
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/4e9e92e4-050f-4b27-bcec-49fad25c20b1)
+
+<li>It is best practice to use camelCase for naming functions</li>
+<li><b>Variable scope exists in functions as well.</b> Any variable that is created inside a function is only accessible inside of that function (local variable). Anything outside is global variable</li>
+<li>Any variable between {...}, only exist between the {...}</li>
+<li><b>Return Statement</b></li>
+<ul>
+	<li>Lets us get a value out of a function</li>
+	<li>When we use a return statement, it ends the function immediately</li>
+
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/c6ba7cdf-5de5-45c3-9a81-762362bf492e)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/d897b30f-23d8-4110-a31f-27e90bc3aa9e)
+
+<li>The second image above, the value it will return is undefined</li>
+</ul>
+<li><b>Parameter</b></li>
+<ul>
+	<li>Allows a value to put into a function</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3bedd21c-3ccf-4758-bb88-e088569cea45)
+
+<li><b>Rules for Parameter Names:</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/56bf89b9-4bc1-427f-a1a3-9e5d3cd074f8)
+
+<li><b>Arguments</b></li>
+<ul>
+	<li>Arguments are the values you specifically give the function when you can call it.</li>
+	<li>calculateTax(<b>argument</b>)</li>
+</ul>
+<p><b>Note:</b> If you did not give a value for a function that needs a argument, the value will be undefined but the function will still run</p>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/5ccbb42b-2c4d-4a9d-bc25-8f0299562c0a)
+
+<li><b>Parameter default value</b></li>
+<ul>
+	<li>You can also give parameters in the function a default value</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/13fc356c-8301-4d25-99e1-bbd32a1d0a55)
+
+<li>You can also call functions inside a function in Javascript</li>
+
+<li><b>Summary of the lesson</b></li>
+<ul>
+	<li>Functions = let us reuse code</li>
+	<li>Return = gets a value out of a function</li>
+	<li>Parameter = put values into a function</li>
+</ul>
+<h4>Lesson 8: Objects</h4>
 </ul>
 
 
