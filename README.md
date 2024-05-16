@@ -81,9 +81,9 @@
 Dfs (Shift + Enter) <br>
 Dsfsdf ` 
 </li>
+<br>
     </ul>
 </ul>
-<br>
 <h3>Lesson 4: HTML, CSS Review, console.log()</h3>
 
 <ul>
@@ -144,6 +144,7 @@ Dsfsdf `
   <li>Load JavaScript inside an HTML file <script>, onclick=’’ </li>
   <li>Comments</li>
   <li>Console.log()</li>
+	<br>
 </ul>
 </ul>
 
@@ -213,6 +214,7 @@ Note: Can't use kebab-case for Javascript. The standard for Javascript is camelC
   <li>Naming conventions and best practices</li>
   <li>3 ways to create a variable: let, const, var</li>
 </ul>
+<br>
 </ul>
 
 <h3>Lesson 6: Booleans and If-Statements</h3>
@@ -388,6 +390,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 <ul>
 	<li>Good for getting default values if there is no decision by the user.</li>
+	<br>
 </ul>
 
 <h3>Lesson 7: Functions</h3>
@@ -448,6 +451,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>Functions = let us reuse code</li>
 	<li>Return = gets a value out of a function</li>
 	<li>Parameter = put values into a function</li>
+	<br>
 </ul>
 <h3>Lesson 8: Objects</h3>
 </ul>
