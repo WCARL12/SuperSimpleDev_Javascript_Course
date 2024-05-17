@@ -586,6 +586,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>If we refresh / close the page, all the variables are deleted</li>
 	<li>localStorage only supports strings</li>
 </ul>
+<br>
 <li><b>localStorage.setItem(“giveAccessName”, valueToSave)</b></li>
 <ul>
 	<li>This saves the value in the storage</li>
@@ -603,6 +604,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 </li>
 </ul>
 <br>
+
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3ea0beb7-d67d-46d2-813d-a0b30fd2e3ea)
 
 
