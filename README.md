@@ -523,6 +523,26 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/907738f3-4ea1-474d-b164-a260c25bc232)
 
+<li>Accessing values inside of nested object</li>
+<ul>
+	<li><b>console.log(product2.rating.count)</b></li>
+	<li><b>console.log(product2[“rating”][“count”])</b></li>
+</ul>
+<li><b>Functions inside an object</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/fa15294c-97a2-4d7d-bc42-8830a7b52b4c)
+
+<li>A function inside of an object is called a <b>method</b></li>
+<ul>
+	<li>An example of a method is Math.random(), console.log() </li>
 </ul>
 
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/0dd9a1e6-3618-4510-b41e-b9a5391d1078)
 
+</ul>
+
+<li>Learned 2 more built-in objects</li>
+<ul>
+	<li><b>JSON</b></li>
+	<li><b>localStorage</b></li>
+</ul>
