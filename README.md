@@ -590,17 +590,19 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 <ul>
 	<li>This saves the value in the storage</li>
 </ul>
+<br>
 <li><b>localStorage.getItem("getAccessNameStorage")</b></b></li>
 <ul>
 	<li>Gets the value inside the local storage</li>
 </ul>
+<br>
 <li><b>localStorage.removeItem(“removeAccessNameStorage”)</b></li>
 <ul>
 	<li>Good for resetting a value like a cart or a score</li>
 	<li>Note: You also need to <b>handle the null value</b> that comes with removing a local storage value
 </li>
 </ul>
-
+<br>
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3ea0beb7-d67d-46d2-813d-a0b30fd2e3ea)
 
 
