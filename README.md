@@ -404,7 +404,9 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/4e9e92e4-050f-4b27-bcec-49fad25c20b1)
 
 <li>It is best practice to use camelCase for naming functions</li>
+<br>
 <li><b>Variable scope exists in functions as well.</b> Any variable that is created inside a function is only accessible inside of that function (local variable). Anything outside is global variable</li>
+<br>
 <li>Any variable between {...}, only exist between the {...}</li>
 <br>
 <li><b>Return Statement</b></li>
