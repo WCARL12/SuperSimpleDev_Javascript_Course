@@ -467,11 +467,13 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>An object is also another type of value</li>
 	
 </ul>
+<br>
 <li><b>Why do we use Objects?</b></li>
 <ul>
 	<li>Make our code more organized</li>
 	<li>Allows to group variables into one object (encapsulation)</li>
 </ul>
+<br>
 <li><b>Example of Object in Javascript:</b></li>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/14fc3b48-5451-46f8-83d2-bfc301d5c57c)
