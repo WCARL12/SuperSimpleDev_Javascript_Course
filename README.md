@@ -600,5 +600,9 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>Note: You also need to <b>handle the null value</b> that comes with removing a local storage value
 </li>
 </ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3ea0beb7-d67d-46d2-813d-a0b30fd2e3ea)
+
+
 </ul>
 
