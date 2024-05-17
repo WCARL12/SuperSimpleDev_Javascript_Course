@@ -486,14 +486,15 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<ul>
 		<li>console.log(object_name.property)</li>
 	</ul>
+	<br>
 	<li>Use <b>Bracket Notation</b></li>
 	<ul>
 		<li>console.log(object_name[‘property’])</li>
 		<li>Lets us use properties that don’t work with dot notation</li>
 		<li>For example: <b>console.log(product.delivery-time) will not work</b> because Javascript thinks you are using the arithmetic operator “ <b>-</b> ”.</li>
-		<li></li>
 		<li>console.log(product.[“delivery-time”]) <b>will work</b></li>
 	</ul>
+	<br>
 	<li>If you access a property that does not exist it will return as undefined</li>
 </ul>
 
