@@ -587,9 +587,18 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>localStorage only supports strings</li>
 </ul>
 <li><b>localStorage.setItem(“giveAccessName”, valueToSave)</b></li>
-</ul>
 <ul>
 	<li>This saves the value in the storage</li>
 </ul>
-
+<li><b>localStorage.getItem("getAccessNameStorage")</b></b></li>
+<ul>
+	<li>Gets the value inside the local storage</li>
+</ul>
+<li><b>localStorage.removeItem(“removeAccessNameStorage”)</b></li>
+<ul>
+	<li>Good for resetting a value like a cart or a score</li>
+	<li>Note: You also need to <b>handle the null value</b> that comes with removing a local storage value
+</li>
+</ul>
+</ul>
 
