@@ -528,6 +528,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li><b>console.log(product2.rating.count)</b></li>
 	<li><b>console.log(product2[“rating”][“count”])</b></li>
 </ul>
+<br>
 <li><b>Functions inside an object</b></li>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/fa15294c-97a2-4d7d-bc42-8830a7b52b4c)
