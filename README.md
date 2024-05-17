@@ -513,6 +513,16 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 <ul>
 	<li>objectName.newPropertyName = newValue</li>
 </ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/b04e4483-cab1-4d65-a057-4d57426913ee)
+
+<li><b>Nested Object</b></li>
+<ul>
+	<li>Allows to create objects inside of an object</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/907738f3-4ea1-474d-b164-a260c25bc232)
+
 </ul>
 
 
