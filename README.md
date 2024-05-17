@@ -607,6 +607,72 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3ea0beb7-d67d-46d2-813d-a0b30fd2e3ea)
 
+<li><b>null vs undefined</b></li>
 
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a3f35b94-540b-435a-9777-07cebe0aa1ee)
+
+<br>
+<li><b>Auto-Boxing</b></li>
+<ul>
+	<li>This happens when strings are automatically wrap in an object</li>
+	<li>Auto-Boxing also <b>works with values like numbers and booleans</b>but <b>does not with null and undefined</b></li>
 </ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/22cae8ec-1415-4e16-b3e8-4bbb8bb04cbe)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/eb57fd5d-8ce2-4ca2-b52e-ba92454503ab)
+
+<p>This is an example of Auto-Boxing. Javascript puts the string ‘hello’ as an object and can give it <b>property .length and method like .toUpperCase()</b>
+</p>
+<br>
+<li><b></b>Objects are references</li>
+<ul>
+	<li>The object is somewhere else in the computer’s memory</li>
+	<li>When using const as a way to make a object you cannot change the reference but you can change the values inside of it</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/30d96dc3-2a5e-4d34-b5f2-b5d21ab79fec)
+
+<li>The image below is, the variable object2 copies reference of object1</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/025137f6-b2c4-4827-a923-9839db7fa9aa)
+
+<li>Note if you change the values inside of object1 the values for object2 will change as well since they both have the same reference. The output below will be Good job! For both </li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/b0a0c748-4c70-469b-8712-fff6b98e12bc)
+
+<li>If you create another object that does not have the same reference or memory like the one below and compare them if they are the same. The boolean output will be false. <b>You are comparing the references, not the values inside.</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/5e463989-c5b2-4ad6-b8fc-228d6a3a87be)
+
+<li><b>Shortcuts for Objects:</b></li>
+<br>
+<li><b>Destructuring</b></li>
+<ul>
+	<li>Easier way to take properties out of an object</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7963fb43-758e-455a-b355-4d71c23e1778)
+
+<br>
+<li><b>Shorthand Property Shortcut</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/299dbeec-3b23-4c26-9e02-f55f56cee3a3)
+
+<p><b>Note:</b>There is already a variable (message) that was created from destructuring shortcut</p>
+<br>
+<li><b>Shorthand Method Shortcut</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7573e7df-ccfa-44b3-a411-cf66226b0b3e)
+
+<li><b>Summary of what I learned:</b></li>
+<ul>
+	<li>Objects - group related values together</li>
+	<li>Added a score to Rock Paper Scissors</li>
+	<li>Built-in objects (JSON, localStorage)</li>
+	<li>More details (null, auto-boxing, references)</li>
+	<li>Shortcuts (destructuring, shorthand property, shorthand method)</li>
+</ul>
+</ul>
+
 
