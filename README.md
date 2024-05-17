@@ -398,6 +398,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 <ul>
 	<li>A function lets us reuse code</li>
 </ul>
+<br>
 <li>Rules for funciton names:</li>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/4e9e92e4-050f-4b27-bcec-49fad25c20b1)
@@ -405,6 +406,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 <li>It is best practice to use camelCase for naming functions</li>
 <li><b>Variable scope exists in functions as well.</b> Any variable that is created inside a function is only accessible inside of that function (local variable). Anything outside is global variable</li>
 <li>Any variable between {...}, only exist between the {...}</li>
+<br>
 <li><b>Return Statement</b></li>
 <ul>
 	<li>Lets us get a value out of a function</li>
@@ -417,6 +419,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 <li>The second image above, the value it will return is undefined</li>
 </ul>
+<br>
 <li><b>Parameter</b></li>
 <ul>
 	<li>Allows a value to put into a function</li>
@@ -445,7 +448,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/13fc356c-8301-4d25-99e1-bbd32a1d0a55)
 
 <li>You can also call functions inside a function in Javascript</li>
-
+<br>
 <li><b>Summary of the lesson</b></li>
 <ul>
 	<li>Functions = let us reuse code</li>
