@@ -454,6 +454,57 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<br>
 </ul>
 <h3>Lesson 8: Objects</h3>
+<li><b>What is an Object?</b></li>
+<ul>
+	<li>An object groups multiple values together</li>
+	<li>Use multiple values together.</li>
+	<li>Property Value pair</li>
+	<li>An object is also another type of value</li>
+	
+</ul>
+<li><b>Why do we use Objects?</b></li>
+<ul>
+	<li>Make our code more organized</li>
+	<li>Allows to group variables into one object (encapsulation)</li>
+</ul>
+<li><b>Example of Object in Javascript:</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/14fc3b48-5451-46f8-83d2-bfc301d5c57c)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/9fbd4857-440e-40e6-92a4-5d7b8cee56f4)
+
+<li><b>Changing the value inside of an object</b></li>
+<ul>
+	<li>Use <b>Dot Notation</b></li>
+	<ul>
+		<li>console.log(object_name.property)</li>
+	</ul>
+	<li>Use <b>Bracket Notation</b></li>
+	<ul>
+		<li>console.log(object_name[‘property’])</li>
+		<li>Lets us use properties that don’t work with dot notation</li>
+		<li>For example: <b>console.log(product.delivery-time) will not work</b> because Javascript thinks you are using the arithmetic operator “ <b>-</b> ”.</li>
+		<li></li>
+		<li>console.log(product.[“delivery-time”]) <b>will work</b></li>
+	</ul>
+	<li>If you access a property that does not exist it will return as undefined</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/08b25fba-f517-4a6e-a6db-cb7397c65ee4)
+
+<li>Bracket Notation Objects Example:</li>
+<ul>Note that the first image below will create a syntax error while the second and third image works fine</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/9f3c8bc6-22ea-47fb-8cc5-6e5b00a9f9b3)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/f9cda9a9-a06c-4458-b144-c2fe68485ec8)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/bc0eb0ab-368a-432e-b317-a4b545f66eda)
+
+<li><b>Adding a new property inside an object</b></li>
+<ul>
+	<li>objectName.newPropertyName = newValue</li>
+</ul>
 </ul>
 
 
