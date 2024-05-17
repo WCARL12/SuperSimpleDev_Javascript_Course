@@ -540,10 +540,56 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/0dd9a1e6-3618-4510-b41e-b9a5391d1078)
 
-</ul>
-
 <li>Learned 2 more built-in objects</li>
 <ul>
 	<li><b>JSON</b></li>
 	<li><b>localStorage</b></li>
 </ul>
+<li><b>JSON</b></li>
+<ul>
+	<li>A Javascript Object Notation</li>
+	<li>A syntax</li>
+	<li><b>Similar to Javascript object</b></li></li>
+	<li><b>But has less features</b></li>
+	<li>All property <b>must use double quotes</b></li>
+	<li>JSON <b>does not support functions</b></li>
+</ul>
+<li><b>JSON syntax can be understood by almost all programming languages and it is more universal</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3359426b-263d-4635-8275-ceb129afa61c)
+
+<li><b>When do we use JSON?</b></li>
+<ul>
+	<li>When we send data between computers that might use different programming languages</li>
+	<li>When we store data</li>
+</ul>
+<li>Built-in JSON Object</li>
+<ul>
+	<li>Convert: JavaScript Object -> JSON</li>
+	<ul>
+		<li><b>JSON.stringify(objectToConvertToJSON)</b></li>
+	</ul>
+	<li>Convert: JSON -> Javascript Object</li>
+	<ul>
+		<li><b>JSON.parse(jsonStringToConvertToJavascript)</b></li>
+	</ul>
+ 	<li>Note you do not need to stringify a value if it is already a string only if it is not a string like an object then you have to stringify it</li>
+	
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/8850bb9e-1b3c-4c63-b5bf-135705b0eee3)
+
+<li>Built-in object <b>localStorage</b></li>
+<ul>
+	<li>Save values more permanently</li>
+	<li>The problem is variables are temporary</li>
+	<li>If we refresh / close the page, all the variables are deleted</li>
+	<li>localStorage only supports strings</li>
+</ul>
+<li><b>localStorage.setItem(“giveAccessName”, valueToSave)</b></li>
+</ul>
+<ul>
+	<li>This saves the value in the storage</li>
+</ul>
+
+
