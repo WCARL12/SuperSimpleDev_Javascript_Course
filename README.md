@@ -680,21 +680,44 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li><b>document.body.innerHTML</b> = 'hello' // <body></li>
 	<li><b>document.title</b> = ‘Good Job! // <title>’</li>
 </ul>
+		<br>
 		<li>The document objects represents / models the webpage</li>
 		<li>document also has methods</li>
 		<ul>
 			<li>document.querySelector(‘buttons’)</li>
 		</ul>
+	<br>
 	<li>We can have html elements inside Javascript</li>
 		<ul>
 			<li><b>document.body.innerHTML</b> = ‘Changed’</li>
 			<li><b>document.body.innerHTML</b> = ‘<button>Hello</button’</li>
 		</ul>
 	<li>The DOM combines JavaScript and HTML together</li>
+	<br>
 	<li>console.log(document.body.innerHTML)</li>
 		<ul>
 			<li>This displays all the elements inside the body of HTML</li>
 		</ul>
+				
+  ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/cc05ea95-dba8-4d37-9dc3-d8ebcf0e14da)
+
+<li><b>document.querySelector(“element”)</b></li>
+	<ul>
+		<li>Lets us get any element from the page and put it inside a Javascript</li>
+	</ul>
+
+ ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/1f9c6315-602b-4b17-99aa-f65f388b6d5d)
+
+<li>
+HTML element also has properties like innerHTML which lets us see the values it holds
+</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a0776ba2-5e5b-4313-8c9c-f778a200cbe1)
+
+<p>
+The output for the image above is “Hello”
+</p>
+<li>Changing the value inside a html element</li>
 </ul>
 
 
