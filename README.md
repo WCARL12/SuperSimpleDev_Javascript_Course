@@ -673,6 +673,28 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 	<li>More details (null, auto-boxing, references)</li>
 	<li>Shortcuts (destructuring, shorthand property, shorthand method)</li>
 </ul>
+<h3>Lesson 9: Document Object Model (DOM)</h3>
+<li>DOM is another built in object</li>
+<ul>
+	<li>Document Object</li>
+	<li><b>document.body.innerHTML</b> = 'hello' // <body></li>
+	<li><b>document.title</b> = ‘Good Job! // <title>’</li>
+</ul>
+		<li>The document objects represents / models the webpage</li>
+		<li>document also has methods</li>
+		<ul>
+			<li>document.querySelector(‘buttons’)</li>
+		</ul>
+	<li>We can have html elements inside Javascript</li>
+		<ul>
+			<li><b>document.body.innerHTML</b> = ‘Changed’</li>
+			<li><b>document.body.innerHTML</b> = ‘<button>Hello</button’</li>
+		</ul>
+	<li>The DOM combines JavaScript and HTML together</li>
+	<li>console.log(document.body.innerHTML)</li>
+		<ul>
+			<li>This displays all the elements inside the body of HTML</li>
+		</ul>
 </ul>
 
 
