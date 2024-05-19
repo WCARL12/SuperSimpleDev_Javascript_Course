@@ -807,7 +807,7 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 	<li>You can also use window.console.log()</li>
 	<li>window.alert()</li>
 </ul>
-
+<br>
 <li><b>Summary of the lesson:</b></li>
 <ul>
 	<li>Document Object Model (DOM)</li>
