@@ -692,6 +692,7 @@ Let type = points > 100 ? ‘gold’ : ‘silver’ ;
 			<li><b>document.body.innerHTML</b> = ‘Changed’</li>
 			<li><b>document.body.innerHTML</b> = ‘<button>Hello</button’</li>
 		</ul>
+	<br>
 	<li>The DOM combines JavaScript and HTML together</li>
 	<br>
 	<li>console.log(document.body.innerHTML)</li>
@@ -718,6 +719,104 @@ HTML element also has properties like innerHTML which lets us see the values it 
 The output for the image above is “Hello”
 </p>
 <li>Changing the value inside a html element</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/34ac8e86-8d37-486c-83e2-1d8c6b12ffba)
+
+<p>
+This now change the value of ‘Hello’ to ‘Changed’
+</p>
+<br>
+<li>Note if you have 2 buttons and you did document.querySelector(“buttons”).innerHTML = ‘Changed’; <b>You will only change the value of the first button, not every button you have created.</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/4f51356d-96ad-4c66-adaf-407ed342ba31)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/5c5a6946-673a-4241-91e9-683ed4dff290)
+
+<li>Using document.querySelector().innerhtml to target a element’s class</li>
+<ul>
+	<li>Add “ <b>.</b> ” <b>/ dot</b> at the very start of the ( ) to target the class of an element</li>
 </ul>
 
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a51a21fc-518e-4265-9bfa-d084ed5b518a)
+
+<li>It is better to add “<b>js-</b>”for class elements you want to target in your JavaScript</li>
+<br>
+<li>Storing a HTML element inside a variable in JavaScript</li>
+<ul>
+	<li>It is also good practice to end in a ‘Element’ / “Elem”at the end of a variable name to show that it is an element variable</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/658ec1a9-a7d6-4fee-b69f-f949a178bcc0)
+
+<li>
+Learned how to to the youtube subscribe button with JavaScript’s interactivity
+</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/c0f92a3a-e1c4-4b98-bf04-17444fcf158c)
+
+<li><b>Note for Javascript Interactivity</b></li>
+<ul>
+	<li>When assigning a html element to a variable, use a document.querySelector(). Do not add the .innerHTML <b>but assign the entire object of querySelector()</b></li>
+	<li>When comparing if the element’s text is true <b>use .InnerText to compare</b> if it is what it is without the extra space. If you use innerHTML it will compare the text with the space which is most likely end up false</li>
+	<li>If you want to change the value inside the HTML element <b>use the .innerHTML to change the value inside</b></li>
+</ul>
+<br>
+<li>Recommend to use functions to make the code much more organized
+</li>
+<br>
+<li><b>htmlVariable.value</b></li>
+<ul>
+	<li>This allows you to get the value from an input</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3eee0c0f-0c04-4e01-8e0b-720b48abf802)
+
+<li>Whenever we get a value from the DOM, the value will be a string.</li>
+<ul>
+	<li>If you are going to do a calculation and the value is a string then you can use the Number() to change the type of the value.</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/3cd2b700-ea77-4e41-803f-0f6389c4b56b)
+
+<li>Learned new attribute <b>onkeydown=””</b></li>
+<ul>
+	<li>This is an event listener and make you see what is being typed when the user is typing</li>
+	<li>You can console.log(event) which is an object that is provided for you to see the different types of attributes when the user is typing.</li>
+	<li>event.key will display what the user is typing down for the input in the console</li>
+	<li>There is also a onkeyup which happens when a key is pressed and released</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/9ce92daf-078c-4580-8c1e-631fa7a0b562)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a80af18f-9e9d-4f45-acd2-65a516714729)
+
+<li>Also learned variable.style.display = ‘none’</li>
+<li>Also learned variable.style.display = ‘block’</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a210622a-f01d-4d74-9309-abdcc09f8f8a)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/0244e762-9006-4ed8-8d06-3ebeea22b676)
+
+<li>Different attributes you can use for Event Listeners
+</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/888f65fd-40e1-4e89-a789-64d6e13b70e0)
+
+<li>Unnecessary information “window” object</li>
+<ul>
+	<li>You can also use window.console.log()</li>
+	<li>window.alert()</li>
+</ul>
+
+<li><b>Summary of the lesson:</b></li>
+<ul>
+	<li>Document Object Model (DOM)</li>
+	<li>document.querySelector(...)</li>
+	<li>.innerHTML</li>
+	<li>.innerText</li>
+	<li>3 projects using the DOM</li>
+	<li>onkeydown=”...”</li>
+	<li>More details about strings + window object</li>
+</ul>
+</ul>
 
