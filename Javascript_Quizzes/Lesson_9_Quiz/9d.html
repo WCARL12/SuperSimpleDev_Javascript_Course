@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input
+      type="text"
+      name=""
+      id=""
+      placeholder="Enter Name:"
+      class="js-submit"
+    />
+    <button onclick="displayName(submitElement.value)">Submit</button>
+    <p class="js-display-name"></p>
+    <script>
+      let displayNameElement = document.querySelector(".js-display-name");
+      let submitElement = document.querySelector(".js-submit");
+
+      displayNameElement.style.display = "none";
+
+      function displayName(name) {
+        displayNameElement.innerHTML = `Your name is: ${name}`;
+        displayNameElement.style.display = "block";
+      }
+    </script>
+  </body>
+</html>

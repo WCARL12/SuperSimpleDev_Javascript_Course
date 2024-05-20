@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input
+      type="text"
+      name=""
+      id=""
+      class="js-input"
+      onkeydown="displayInput(inputElement)"
+    />
+    <p class="js-display-input"></p>
+    <script>
+      let inputElement = document.querySelector(".js-input");
+      let displayElement = document.querySelector(".js-display-input");
+      function displayInput(inputElement) {
+        displayElement.innerHTML = inputElement.value;
+      }
+    </script>
+  </body>
+</html>

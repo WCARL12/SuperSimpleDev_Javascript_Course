@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button onclick="displayChoice('heads')">heads</button>
+    <button onclick="displayChoice('tails')">tails</button>
+    <p class="js-display-choice"></p>
+    <script>
+      let displayChoiceElement = document.querySelector(".js-display-choice");
+      displayChoiceElement.style.display = "none";
+
+      function displayChoice(choice) {
+        displayChoiceElement.style.display = "block";
+        displayChoiceElement.innerHTML = `You chose: ${choice}`;
+      }
+    </script>
+  </body>
+</html>
