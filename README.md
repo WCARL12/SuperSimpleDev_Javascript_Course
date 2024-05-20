@@ -790,8 +790,6 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a80af18f-9e9d-4f45-acd2-65a516714729)
 
-<li>Also learned variable.style.display = ‘none’</li>
-<li>Also learned variable.style.display = ‘block’</li>
 
 ![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/a210622a-f01d-4d74-9309-abdcc09f8f8a)
 
@@ -807,6 +805,10 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 	<li>You can also use window.console.log()</li>
 	<li>window.alert()</li>
 </ul>
+
+<br>
+<li>Also learned variable.style.display = ‘none’</li>
+<li>Also learned variable.style.display = ‘block’</li>
 <br>
 <li><b>Summary of the lesson:</b></li>
 <ul>
