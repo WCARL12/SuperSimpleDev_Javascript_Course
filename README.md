@@ -820,5 +820,7 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 	<li>onkeydown=”...”</li>
 	<li>More details about strings + window object</li>
 </ul>
+
+<h3>Lesson 10: HTML, CSS and Javascript Together</h3>
 </ul>
 
