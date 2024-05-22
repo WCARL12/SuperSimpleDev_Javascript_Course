@@ -822,5 +822,6 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 </ul>
 
 <h3>Lesson 10: HTML, CSS and Javascript Together</h3>
+<li>Learned how to create Youtube Subscribe button, Rock Paper Scissor, Calculate Shipping using a combination of HTML, CSS, and Javascript</li>
 </ul>
 
