@@ -823,5 +823,64 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 
 <h3>Lesson 10: HTML, CSS and Javascript Together</h3>
 <li>Learned how to create Youtube Subscribe button, Rock Paper Scissor, Calculate Shipping using a combination of HTML, CSS, and Javascript</li>
+
+<li><b>Subscribe Button</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/07de99e2-f23b-498b-92e6-8a4e3718016c)
+
+<li><b>Amazon Shipping</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/460f13c3-9ecd-48c7-beae-33d8b1bad5be)
+
+<li><b>Rock Paper Scissors</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/2a17a6e8-e5cf-4243-a165-20c0960811c5)
+
+<br>
+
+<li><b>CSS Selector</b></li>
+<ul>Tell which elements to style</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/61968727-5a2d-40a7-96de-d2897a76641d)
+
+<li><b>Property and Value</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/59fdf698-35d4-4e85-92f3-568514be9538)
+
+<li><b>Adding another class</b></li>
+<ul>
+	<li>You can create multiple class by adding a space in between</li>
+</ul>
+
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/ee78078a-b493-4801-82bb-92b9dee6393b)
+
+<li>Learned another DOM attribute <b>".classList"</b></li>
+<ul>
+	<li>Which guives you control of the class attribute</li>
+	<li><b>.classList.add()</b></li>
+	<ul>
+		<li>Adds a class to an element</li>
+	</ul>
+	<li><b>.classList.remove()</b></li>
+	<ul>
+		<li>Removes a class to an element</li>
+	</ul>
+	<li><b>.classList.contains()</b></li>
+	<ul>
+		<li>Checks if an element has a class</li>
+	</ul>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/21e9ab20-b9b9-4afb-9d2b-3af73025c36c)
+
+<li><b>Summary of the Lesson:</b></li>
+<ul>
+	<li>Reviewed CSS, and added CSS to projects</li>
+	<li>.classList</li>
+	<li>Finished Rock Paper Scissors</li>
+	<li>Organize JavaScript and CSS code into separate files</li>
+</ul>
+
 </ul>
 
