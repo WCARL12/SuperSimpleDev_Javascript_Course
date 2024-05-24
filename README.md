@@ -882,5 +882,111 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 	<li>Organize JavaScript and CSS code into separate files</li>
 </ul>
 
+<h3>Lesson 11: Arrays and Loops</h3>
+
+<li><b>Arrays</b></li>
+<ul>
+	<li>Another type of value</li>
+	<li>Represents a list of values</li>
+	<li>An array is also an object</li>
+	<li>Which means they also have properties and methods</li>
+	
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/51030d74-a69c-4b29-9f26-ed2fdd2c6f52)
+
+<li>Taking a value out of an array</li>
+<ul>
+	<li>console.log(myArray[0]) // The output is 10</li>
+	<li>Note that 0 index is the first value</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/e5b785f5-5a71-4ab2-bd07-299fa4701969)
+
+<li><b>Changing the value of an array</b></li>
+<ul>
+	<li>myArray[0] = 99</li>
+	<li>The 0 index of the array will now be 00</li>
+	<li>console.log(myArray[0]) // output is 99D</li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/ac99e4ed-3b5f-4b2e-a626-87b5ae3ac107)
+
+<li>You can have different type of values inside an array </li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/36df0aee-464f-45c4-9626-6ca577bf9936)
+
+<li>Learned different types of properties and methods with arrays</li>
+<ul>
+	<li>Check if a value is an array:</li>
+	<ul>
+		<li>console.log(Array.isArray([1, 2])) // true</li>
+	</ul>
+</ul>
+<ul>
+	<li>Check the length of an array:</li>
+	<ul>
+		<li>console.log(myArray.length)</li>
+	</ul>
+</ul>
+<ul>
+	<li>Adding a value at the end of an array</li>
+	<ul>
+		<li>myArray.push(100)</li>
+	</ul>
+</ul>
+<ul>
+	<li>Delete a value in the array</li>
+	<ul>
+		<li>myArray.splice(0,2)</li>
+		<li>The first value is the index we want to remove</li>
+		<li>The second value is the number of values to remove</li>
+		<li>In this case start at 0 index and remove 2 values, so 0 and 1 index</li>
+	</ul>
+</ul>
+
+<li><b>Loops</b></li>
+
+<ul>
+	<li>Let us run some code over and over</li>
+</ul>
+
+<li><b>While loop</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/37816eca-f2de-46f1-8d44-c28d24fb4c4d)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/2dd1beb1-45f6-489b-a97f-829890986205)
+
+<li>The increment step in a loop allows the loop to end so it does not go infinity</li>
+
+<li><b>For loop</b></li>
+
+<ul>
+	<li>In a For loop you can specify a variable, then a condition, then a increment step in the ( )</li>
+	<li>Note that those conditions cannot be done in a while loop ( ) </li>
+</ul>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/7f0c6af0-ec59-473a-ad33-8b29e28e7c16)
+
+<li>Looping through every single value inside the list</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/6c78f774-7501-4eac-bd88-335dfcb589a0)
+
+<li><b>Doubling the value inside the array</b></li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/b89c8526-4cfb-4289-87ea-4dbea810b39e)
+
+<li>Using a for loop to generate a p tag inside a div tag:</li>
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/538f9f67-bc32-4702-986d-b971b19c9881)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/4c8a478e-7159-4030-a111-8257b9c55dec)
+
+<li><b>Main idea of Javascript</b></li>
+<ul>
+	<li>Save the data</li>
+	<li>Generate the HTML</li>
+	<li>Make it interactive</li>
+</ul>
 </ul>
 
