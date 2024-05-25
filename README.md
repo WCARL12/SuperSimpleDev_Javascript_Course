@@ -988,5 +988,26 @@ Learned how to to the youtube subscribe button with JavaScript’s interactivity
 	<li>Generate the HTML</li>
 	<li>Make it interactive</li>
 </ul>
+
+<li>More details about loops</li>
+<ul>
+	<li>break = exit the loop early</li>
+	<li>Continue = skip 1 iteration</li>
 </ul>
 
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/63188e6a-eaf2-4b86-9f63-d787f8b8f0c9)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/9c9a0e9b-78ad-4fbd-9c5b-d6deb6445692)
+
+<li><b>Summary of the lesson:</b></li>
+
+<ul>
+	<li>Arrays - list of values</li>
+	<li>Loops (while loop, for loop)</li>
+	<li>Accumulator Pattern</li>
+	<li>Created a Todo List project</li>
+	<li>Arrays are references, destructuring</li>
+	<li>More features of loops: break, continue, loops inside a function</li>
+</ul>
+
+</ul>
