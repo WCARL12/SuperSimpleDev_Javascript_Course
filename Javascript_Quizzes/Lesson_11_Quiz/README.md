@@ -1,0 +1,7 @@
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/247964a3-7b46-4314-911d-f881b8fb68d4)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/bafdb0bf-004f-4c2e-bace-6f260edcbddd)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/27690aab-37a4-453a-89e4-85f5ea49e9c5)
+
+![image](https://github.com/WCARL12/SuperSimpleDev_Javascript_Course/assets/139624156/5dccc3fe-cd1a-41d8-b441-d49dcd0802f5)
